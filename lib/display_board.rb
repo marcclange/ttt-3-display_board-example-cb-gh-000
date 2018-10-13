@@ -11,3 +11,4 @@ def display_board
   puts second_row
   puts dashes
   puts third_row
+end
